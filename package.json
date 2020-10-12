@@ -1,0 +1,24 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "this is the first api",
+  "main": "yes",
+  "dependencies": {
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbensimon/FirstAPI.git"
+  },
+  "author": "Or ben simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbensimon/FirstAPI/issues"
+  },
+  "homepage": "https://github.com/orbensimon/FirstAPI#readme"
+}
